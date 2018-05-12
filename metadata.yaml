@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40870
     wikipedia: https://en.wikipedia.org/wiki/Ferdinand_Blumentritt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40867#Versuch-einer-Ethnographie-der-Philippinen
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-09-26'
 gutenberg_type: Text
