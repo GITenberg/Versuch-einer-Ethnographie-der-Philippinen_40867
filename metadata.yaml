@@ -1,0 +1,30 @@
+_repo: Versuch-einer-Ethnographie-der-Philippinen_40867
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40867-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Blumentritt, Ferdinand
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '40870'
+    url: http://www.gutenberg.org/2009/agents/40870
+    wikipedia: https://en.wikipedia.org/wiki/Ferdinand_Blumentritt
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40867'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Philippines -- Social life and customs'
+- !lcc 'DS'
+- !lcsh 'Ethnology -- Philippines'
+title: Versuch einer Ethnographie der Philippinen
+url: http://www.gutenberg.org/ebooks/40867
